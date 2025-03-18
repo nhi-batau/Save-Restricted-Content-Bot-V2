@@ -8,12 +8,12 @@
   "env": {
     "API_ID": {
       "description": "Get this value from https://my.telegram.org",
-      "value": "your_api_id_here",
+      "value": "20114039",
       "required": true
     },
     "API_HASH": {
       "description": "Get this value from https://my.telegram.org",
-      "value": "your_api_hash_here",
+      "value": "87297b8f3cc8fc9bbce591ad30da5896",
       "required": true
     },
     "BOT_TOKEN": {
@@ -33,7 +33,7 @@
     },    
     "FREEMIUM_LIMIT": {
       "description": "Batch size for free users",
-      "value": "0",
+      "value": "10",
       "required": true
     },
     "PREMIUM_LIMIT": {
